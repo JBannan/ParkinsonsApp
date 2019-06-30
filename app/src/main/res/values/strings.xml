@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Parkinsons App</string>
+    <string name="accel_btn">Start Accelerometer</string>
+    <string name="calibrate_button">Calibrate Sensors</string>
 </resources>

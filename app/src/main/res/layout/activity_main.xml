@@ -8,22 +8,11 @@
     android:padding="30sp"
     tools:context=".MainActivity">
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/xValue" />
 
-    <TextView
+    <Button
+        android:id="@+id/AccelBtn"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/yValue"
-        android:layout_marginTop="30sp"/>
-
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/zValue"
-        android:layout_marginTop="30sp"/>
-
+        android:layout_height="68dp"
+        android:text="@string/accel_btn" />
 
 </LinearLayout>
